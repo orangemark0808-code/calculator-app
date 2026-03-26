@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+**/build/
+
+# Local environment
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Android binaries and packaged artifacts
+*.apk
+*.aab
+*.ap_
+
+# Generated native artifacts
+*.so
+*.o
+*.obj
+*.dex
